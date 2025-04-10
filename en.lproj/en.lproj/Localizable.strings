@@ -1,0 +1,23 @@
+
+"status.downloading" = "Downloading...";
+"error.ytdlp.notfound.status" = "yt-dlp not found in the bundle.";
+"error.ytdlp.notfound.log" = "yt-dlp not found in Bundle.main";
+"log.ytdlp.found" = "yt-dlp found at path: %@";
+"log.command" = "Command: %@";
+"status.saved" = "✅ File saved: %@";
+"error.tempfile.notfound.status" = "❌ Error: file not found in temp folder";
+"error.tempfile.notfound.log" = "yt-dlp did not create file at path: %@";
+"error.file.missing.status" = "❌ File not found after download";
+"error.file.missing.log" = "No video file found after yt-dlp finished";
+"error.tempdir.failed" = "❌ Error reading temporary directory";
+"error.run.failed.status" = "yt-dlp launch failed: %@";
+
+"panel.title" = "Save video as";
+"input.prompt" = "Drag a link or paste it below";
+"label.video.quality" = "Video Quality";
+
+"button.paste.clipboard" = "Paste from clipboard";
+"button.download" = "Download";
+
+"label.saved.as" = "✅ Saved as: %@";
+"button.show.in.finder" = "Show in Finder";

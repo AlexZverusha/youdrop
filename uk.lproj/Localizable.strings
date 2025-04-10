@@ -1,0 +1,24 @@
+
+"status.downloading" = "Завантаження...";
+"error.ytdlp.notfound.status" = "Не знайдено yt-dlp у бандлі.";
+"error.ytdlp.notfound.log" = "yt-dlp не знайдено у Bundle.main";
+"log.ytdlp.found" = "Знайдено yt-dlp за шляхом: %@";
+"log.command" = "Команда: %@";
+"status.saved" = "✅ Файл збережено: %@";
+"error.tempfile.notfound.status" = "❌ Помилка: файл не знайдено в тимчасовій папці";
+"error.tempfile.notfound.log" = "yt-dlp не створив файл за адресою: %@";
+"error.file.missing.status" = "❌ Файл не знайдено після завантаження";
+"error.file.missing.log" = "Не знайдено відеофайл після завершення yt-dlp";
+"error.tempdir.failed" = "❌ Помилка при читанні тимчасової директорії";
+"error.run.failed.status" = "Помилка запуску yt-dlp: %@";
+
+"panel.title" = "Зберегти відео як";
+"label.video.quality" = "Video Quality";
+"input.prompt" = "Перетягніть посилання або вставте його нижче"; 
+"label.video.quality" = "Якість відео";
+
+"button.paste.clipboard" = "Вставити з буфера";
+"button.download" = "Завантажити";
+
+"label.saved.as" = "✅ Збережено як: %@";
+"button.show.in.finder" = "Показати в Finder";
